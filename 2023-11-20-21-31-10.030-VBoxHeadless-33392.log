@@ -1,0 +1,12 @@
+Log created: 2023-11-20T21:31:10.303969000Z
+Process ID:  33392 (0x8270)
+Parent PID:  1 (0x1)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: primeira_maquina
+Arg[3]: --startvm
+Arg[4]: 71eb3e79-a533-4769-9266-9b8afab59f53
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2

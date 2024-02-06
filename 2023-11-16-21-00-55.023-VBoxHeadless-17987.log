@@ -1,0 +1,12 @@
+Log created: 2023-11-16T21:00:55.237475000Z
+Process ID:  17987 (0x4643)
+Parent PID:  1 (0x1)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: primeira_maquina_default_1700101845745_2076
+Arg[3]: --startvm
+Arg[4]: f56451f5-64d3-4b27-8343-9370722f03c6
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
